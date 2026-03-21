@@ -73,7 +73,7 @@ Foram explorados os principais métodos HTTP:
 1. Clone este repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/mouraoleticia23-lgtm/postman_serverest.git
 ```
 
 2. Abra o **Postman**
